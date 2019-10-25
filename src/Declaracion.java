@@ -17,8 +17,6 @@ public class Declaracion {
 		
 		//Todo en uno
 		int [] otrosSueldos = {1200, 750, 820, 550, 490};
-		
-		if (sueldos.equals(sueldos))
-			System.out.println("Son iguales");
+
 	}
 }
